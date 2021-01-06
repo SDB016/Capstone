@@ -1,0 +1,12 @@
+module seven_seg(
+	input [3:0] _0,
+	input [3:0] _1,
+	input [3:0] _2,
+	input [3:0] _3,
+	input [3:0] _4,
+	input [3:0] _5,
+	
+	input clk
+);
+
+

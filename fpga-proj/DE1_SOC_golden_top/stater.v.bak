@@ -1,0 +1,7 @@
+module stater(
+	input i_clk,
+	input i_rst,
+	input [3:0] i_data,
+	
+	output reg [6:0] o_data
+);

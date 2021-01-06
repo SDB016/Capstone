@@ -1,0 +1,5 @@
+module clock_gen(
+	input i_clk,
+	
+	output reg o_clk
+)
