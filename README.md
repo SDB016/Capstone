@@ -3,5 +3,3 @@
 Why FGPA?
 
 Which Model?
-
-Reference
