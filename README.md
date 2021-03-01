@@ -1,5 +1,7 @@
 # Wafer Bin Map Classification with VGG-16 on FPGA
+</br></br>
+Why FGPA?</br>
 
-Why FGPA?
-
-Which Model?
+</br></br>
+Which Model?</br>
+-VGG-16
