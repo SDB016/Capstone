@@ -4,4 +4,4 @@ Why FGPA?</br>
 
 </br></br>
 Which Model?</br>
--VGG-16
+- VGG-16 & K-NN
