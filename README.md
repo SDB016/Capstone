@@ -1,6 +1,6 @@
-# Wafer Bin Map Classification with VGG-16 on pynq
+# Wafer Bin Map Classification with VGG-16 on FPGA
 </br></br>
-Why pynq?</br>
+Why FPGA?</br>
 
 </br></br>
 Which Model?</br>
